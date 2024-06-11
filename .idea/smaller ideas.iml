@@ -6,7 +6,8 @@
       <sourceFolder url="file://$MODULE_DIR$/cities_list" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/dartmouth_pathfinder" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/solar_system" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Random" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Learning Pandas" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DataAnnotation Assesment" isTestSource="false" />
     </content>
     <orderEntry type="jdk" jdkName="Python 3.11" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
